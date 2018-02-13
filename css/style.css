@@ -380,17 +380,6 @@ header{
 	outline: none;
 	border: 0;
 }
-/* .form-Fname-name{
-	width: 80px;
-	height: 24px;
-	font-family: Georgia;
-	font-size: 16px;
-	color: #000000;
-	line-height: 24px;
-	margin-left: 16px;
-	margin-top: 11px;
-	margin-bottom: 13px;
-} */
 .form-post{
 	width: 544px;
 	height: 48px;
@@ -401,13 +390,6 @@ header{
 	padding-left: 16px;
 	outline: none;
 }
-/* .form-post-text{
-	width: 123px;
-	height: 24px;
-	
-	margin-left: 16px;
-	
-} */
 .textarea{
 	width: 544px;
 	height: 192px;
@@ -475,14 +457,6 @@ header{
 	border-style: solid; 
 	border-color: #BE381F  #E9F0E6; 
 }
-/* .form-file-text{
-	width: 122px;
-	height: 24px;
-	font-family: Helvetica-Bold;
-	font-size: 16px;
-	color: #DD3E18;
-	line-height: 24px;
-} */
 .form-submit{
 	width: 544px;
 	height: 49px;
